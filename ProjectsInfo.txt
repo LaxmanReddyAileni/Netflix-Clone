@@ -1,0 +1,11 @@
+Steps for Netflix-Clone:
+
+Demo App
+Get TMDB API Key       8e6e2786bed9189394cd0821f8ed6142             API Request token          https://api.themoviedb.org/3/movie/550?api_key=8e6e2786bed9189394cd0821f8ed6142
+Create a react app
+setup firebase hosting
+Get all the movies
+Build the rows
+Build the banner
+build the nav bar
+add trailer popups
